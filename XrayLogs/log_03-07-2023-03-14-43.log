@@ -1,0 +1,14 @@
+2023-07-03 15:14:43.797INFO - Log configuration done. Log Dir:./XrayLogs
+2023-07-03 15:14:43.926INFO - Test Start Time: 2023-07-03T15:14:43+05:30
+2023-07-03 15:15:03.000INFO - File Name = Test Issue Key: PAYMENT-WALLET-LOGIN
+2023-07-03 15:15:30.872INFO - Email_address
+2023-07-03 15:15:30.873INFO - red025@yopmail.com
+2023-07-03 15:15:32.545INFO - password
+2023-07-03 15:15:32.545INFO - Test@123
+2023-07-03 15:17:04.081INFO - Generating OverviewReport startedOverviewReport{targetDirectoryPath='./Reports/LH_Mon_Jul_03_15_17_04_IST_2023/', outputName='CucumberResultsOverview_LH_Mon_Jul_03_15_17_04_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json'}
+2023-07-03 15:17:04.838INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Mon_Jul_03_15_17_04_IST_2023\CucumberResultsOverview_LH_Mon_Jul_03_15_17_04_IST_2023-feature-overview.html
+2023-07-03 15:17:04.840INFO - Generating DetailedReport startedDetailedReport{targetDirectoryPath='./Reports/LH_Mon_Jul_03_15_17_04_IST_2023/', outputName='CucumberDetailedResults_LH_Mon_Jul_03_15_17_04_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', screenShotLocation='images/resources/'}
+2023-07-03 15:17:04.950INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Mon_Jul_03_15_17_04_IST_2023\CucumberDetailedResults_LH_Mon_Jul_03_15_17_04_IST_2023-test-results.html
+2023-07-03 15:17:04.954INFO - Generating OverviewDetailedCombinedReport startedOverviewDetailedCombinedReport{targetDirectoryPath='./Reports/LH_Mon_Jul_03_15_17_04_IST_2023/', outputName='OverviewDetailedReport_LH_Mon_Jul_03_15_17_04_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', itemInfos=[com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@1536602f, com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@4ebea12c]}
+2023-07-03 15:17:05.063INFO - Generating OverviewDetailedCombinedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Mon_Jul_03_15_17_04_IST_2023\OverviewDetailedReport_LH_Mon_Jul_03_15_17_04_IST_2023-.html
+2023-07-03 15:17:05.063INFO - .\Reports\LH_Mon_Jul_03_15_17_04_IST_2023\OverviewDetailedReport_LH_Mon_Jul_03_15_17_04_IST_2023-.html

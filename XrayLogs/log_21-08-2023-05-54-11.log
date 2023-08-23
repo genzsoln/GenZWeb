@@ -1,0 +1,11 @@
+2023-08-21 17:54:11.435INFO - Log configuration done. Log Dir:./XrayLogs
+2023-08-21 17:54:11.440INFO - Test Start Time: 2023-08-21T17:54:11+05:30
+2023-08-21 17:54:11.910INFO - File Name = Test Issue Key: ABOUT-US-AVAILABILITY
+2023-08-21 17:54:38.916INFO - File Name = Test Issue Key: AVAILABILTY-OF-GENZ
+2023-08-21 17:54:57.246INFO - Generating OverviewReport startedOverviewReport{targetDirectoryPath='./Reports/LH_Mon_Aug_21_17_54_57_IST_2023/', outputName='CucumberResultsOverview_LH_Mon_Aug_21_17_54_57_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json'}
+2023-08-21 17:54:57.632INFO - Generating DetailedReport completed C:\Users\Admin\Desktop\project of intellij\GenZWebsite\Reports\LH_Mon_Aug_21_17_54_57_IST_2023\CucumberResultsOverview_LH_Mon_Aug_21_17_54_57_IST_2023-feature-overview.html
+2023-08-21 17:54:57.634INFO - Generating DetailedReport startedDetailedReport{targetDirectoryPath='./Reports/LH_Mon_Aug_21_17_54_57_IST_2023/', outputName='CucumberDetailedResults_LH_Mon_Aug_21_17_54_57_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', screenShotLocation='images/resources/'}
+2023-08-21 17:54:57.761INFO - Generating DetailedReport completed C:\Users\Admin\Desktop\project of intellij\GenZWebsite\Reports\LH_Mon_Aug_21_17_54_57_IST_2023\CucumberDetailedResults_LH_Mon_Aug_21_17_54_57_IST_2023-test-results.html
+2023-08-21 17:54:57.766INFO - Generating OverviewDetailedCombinedReport startedOverviewDetailedCombinedReport{targetDirectoryPath='./Reports/LH_Mon_Aug_21_17_54_57_IST_2023/', outputName='OverviewDetailedReport_LH_Mon_Aug_21_17_54_57_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', itemInfos=[com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@2cfbeac4, com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@12db3386]}
+2023-08-21 17:54:57.898INFO - Generating OverviewDetailedCombinedReport completed C:\Users\Admin\Desktop\project of intellij\GenZWebsite\Reports\LH_Mon_Aug_21_17_54_57_IST_2023\OverviewDetailedReport_LH_Mon_Aug_21_17_54_57_IST_2023-.html
+2023-08-21 17:54:57.899INFO - .\Reports\LH_Mon_Aug_21_17_54_57_IST_2023\OverviewDetailedReport_LH_Mon_Aug_21_17_54_57_IST_2023-.html

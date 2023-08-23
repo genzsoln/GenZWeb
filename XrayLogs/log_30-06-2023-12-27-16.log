@@ -1,0 +1,14 @@
+2023-06-30 12:27:16.397INFO - Log configuration done. Log Dir:./XrayLogs
+2023-06-30 12:27:16.522INFO - Test Start Time: 2023-06-30T12:27:16+05:30
+2023-06-30 12:27:36.359INFO - File Name = Test Issue Key: FLIGHT-BOOKING-B2-FLOW-WITH-LOGIN
+2023-06-30 12:27:58.828INFO - Email_address
+2023-06-30 12:27:58.829INFO - red025@yopmail.com
+2023-06-30 12:28:01.164INFO - password
+2023-06-30 12:28:01.165INFO - Test@123
+2023-06-30 12:30:31.196INFO - Generating OverviewReport startedOverviewReport{targetDirectoryPath='./Reports/LH_Fri_Jun_30_12_30_31_IST_2023/', outputName='CucumberResultsOverview_LH_Fri_Jun_30_12_30_31_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json'}
+2023-06-30 12:30:31.815INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Fri_Jun_30_12_30_31_IST_2023\CucumberResultsOverview_LH_Fri_Jun_30_12_30_31_IST_2023-feature-overview.html
+2023-06-30 12:30:31.819INFO - Generating DetailedReport startedDetailedReport{targetDirectoryPath='./Reports/LH_Fri_Jun_30_12_30_31_IST_2023/', outputName='CucumberDetailedResults_LH_Fri_Jun_30_12_30_31_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', screenShotLocation='images/resources/'}
+2023-06-30 12:30:31.942INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Fri_Jun_30_12_30_31_IST_2023\CucumberDetailedResults_LH_Fri_Jun_30_12_30_31_IST_2023-test-results.html
+2023-06-30 12:30:31.948INFO - Generating OverviewDetailedCombinedReport startedOverviewDetailedCombinedReport{targetDirectoryPath='./Reports/LH_Fri_Jun_30_12_30_31_IST_2023/', outputName='OverviewDetailedReport_LH_Fri_Jun_30_12_30_31_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', itemInfos=[com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@30ea8c23, com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@7b139eab]}
+2023-06-30 12:30:32.067INFO - Generating OverviewDetailedCombinedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Fri_Jun_30_12_30_31_IST_2023\OverviewDetailedReport_LH_Fri_Jun_30_12_30_31_IST_2023-.html
+2023-06-30 12:30:32.067INFO - .\Reports\LH_Fri_Jun_30_12_30_31_IST_2023\OverviewDetailedReport_LH_Fri_Jun_30_12_30_31_IST_2023-.html

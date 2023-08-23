@@ -1,0 +1,30 @@
+2023-06-27 15:15:58.654INFO - Log configuration done. Log Dir:./XrayLogs
+2023-06-27 15:15:58.768INFO - Test Start Time: 2023-06-27T15:15:58+05:30
+2023-06-27 15:16:13.082INFO - File Name = Test Issue Key: FLIGHT-BOOKING-B2-FLOW
+2023-06-27 15:19:46.325INFO - CCard_Type
+2023-06-27 15:19:46.325INFO - American Express
+2023-06-27 15:19:48.822INFO - Card_number
+2023-06-27 15:19:48.822INFO - 340000000001098
+2023-06-27 15:19:50.784INFO - Card_Holder_Name
+2023-06-27 15:19:50.784INFO - Testuser
+2023-06-27 15:19:51.001INFO - Card_Expiry
+2023-06-27 15:19:51.001INFO - 12/23
+2023-06-27 15:19:51.541INFO - Security_Code
+2023-06-27 15:19:51.541INFO - 1234
+2023-06-27 15:19:51.651INFO - Street_Address
+2023-06-27 15:19:51.652INFO - ABC
+2023-06-27 15:19:51.957INFO - Postal_Code
+2023-06-27 15:19:51.957INFO - 11056
+2023-06-27 15:19:52.209INFO - City
+2023-06-27 15:19:52.210INFO - Berlin
+2023-06-27 15:19:52.473INFO - Country
+2023-06-27 15:19:52.473INFO - Germany
+2023-06-27 15:21:48.174INFO - Booking_Details
+2023-06-27 15:21:48.174INFO - message/reference/itenary
+2023-06-27 15:22:00.178INFO - Generating OverviewReport startedOverviewReport{targetDirectoryPath='./Reports/LH_Tue_Jun_27_15_22_00_IST_2023/', outputName='CucumberResultsOverview_LH_Tue_Jun_27_15_22_00_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json'}
+2023-06-27 15:22:01.306INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Tue_Jun_27_15_22_00_IST_2023\CucumberResultsOverview_LH_Tue_Jun_27_15_22_00_IST_2023-feature-overview.html
+2023-06-27 15:22:01.307INFO - Generating DetailedReport startedDetailedReport{targetDirectoryPath='./Reports/LH_Tue_Jun_27_15_22_00_IST_2023/', outputName='CucumberDetailedResults_LH_Tue_Jun_27_15_22_00_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', screenShotLocation='images/resources/'}
+2023-06-27 15:22:01.855INFO - Generating DetailedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Tue_Jun_27_15_22_00_IST_2023\CucumberDetailedResults_LH_Tue_Jun_27_15_22_00_IST_2023-test-results.html
+2023-06-27 15:22:01.863INFO - Generating OverviewDetailedCombinedReport startedOverviewDetailedCombinedReport{targetDirectoryPath='./Reports/LH_Tue_Jun_27_15_22_00_IST_2023/', outputName='OverviewDetailedReport_LH_Tue_Jun_27_15_22_00_IST_2023', templatePath='./custom_templates/templates.json', sourceName='target/cucumber.json', itemInfos=[com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@3d8bbcdc, com.github.mkolisnyk.cucumber.reporting.types.consolidated.ConsolidatedItemInfo@52500920]}
+2023-06-27 15:22:02.760INFO - Generating OverviewDetailedCombinedReport completed C:\Users\SVE\Workspace\Azure_Playwright_Project\Automation%20Library\Reports\LH_Tue_Jun_27_15_22_00_IST_2023\OverviewDetailedReport_LH_Tue_Jun_27_15_22_00_IST_2023-.html
+2023-06-27 15:22:02.761INFO - .\Reports\LH_Tue_Jun_27_15_22_00_IST_2023\OverviewDetailedReport_LH_Tue_Jun_27_15_22_00_IST_2023-.html

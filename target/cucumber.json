@@ -1,0 +1,212 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 380168200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GenericSteps.before(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 15449076000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefination.before(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify About Us Page Availability",
+        "description": "",
+        "id": "testing-the-availability-of-about-us-link;verify-about-us-page-availability",
+        "after": [
+          {
+            "result": {
+              "duration": 314700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GenericSteps.after(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 5410155900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefination.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7997486400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the Genz homepage",
+            "match": {
+              "location": "stepDefination.user_is_on_the_Genz_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 879700800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User clicks on the About Us link",
+            "match": {
+              "location": "stepDefination.user_clicks_on_the_about_us_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 57556900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "About Us page should be accessible",
+            "match": {
+              "location": "stepDefination.about_Us_page_should_be_accessible()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Testing the availability of About us link",
+    "description": "",
+    "id": "testing-the-availability-of-about-us-link",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/lh/features/About_us_availability.feature",
+    "tags": [
+      {
+        "name": "@test",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5051900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GenericSteps.before(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 1744670700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefination.before(Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Verify Homepage Availability",
+        "description": "",
+        "id": "testing-the-availability-of-the-genz-website;verify-homepage-availability",
+        "after": [
+          {
+            "result": {
+              "duration": 79200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "GenericSteps.after(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 3050805000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefination.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5182632600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on the Genz homepage",
+            "match": {
+              "location": "stepDefination.user_is_on_the_Genz_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 29865600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Homepage should be accessible",
+            "match": {
+              "location": "stepDefination.homepage_should_be_accessible()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Testing the availability of the Genz Website",
+    "description": "",
+    "id": "testing-the-availability-of-the-genz-website",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/lh/features/Availabilty_of_GenZ.feature",
+    "tags": [
+      {
+        "name": "@test",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
